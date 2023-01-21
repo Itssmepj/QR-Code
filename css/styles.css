@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(246, 236, 236);
+    text-align: center;
+    margin: 200px 580px auto;
+   
+}
+
+.top{
+    background-color: white;
+    border: solid 15px;
+    border-color: white;
+    border-radius: 12px;
+    height: 420px;
+    width: 250px;
+    text-align: center;
+}
+.main-line{   
+    line-height: 26px;
+    font-size: 1.09rem;
+    margin-top: 22px;
+    margin-bottom: 11px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    
+
+
+}
+
+.second-line{
+    font-size: .84rem;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    line-height: 18px;
+    margin-top: 5px;        
+
+}
+
+.qr-code{
+    height: 250px;
+    width: 250px;
+    border-radius: 8px;
+}
+
+.attribution{
+    margin-right: 80px;
+    margin-top: 150px;
+    text-align: center;
+    margin-bottom: 40px;
+}
